@@ -1,0 +1,4 @@
+jupyter>=1.0
+ipykernel>=6.0
+nbconvert[webpdf]>=7.3
+playwright>=1.40

@@ -1,0 +1,21 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+ultralytics>=8.0.0 # For YOLO models
+torch>=2.0.0    # PyTorch for deep learning
+Pillow>=10.0.0  # Required by ultralytics
+matplotlib>=3.7.0  # For visualization
+scikit-image>=0.24.0  # For image processing (skimage)
+scipy>=1.11.0  # Required by scikit-image and ndimage usage
+PyYAML>=6.0  # Required by ultralytics
+tqdm>=4.65.0  # For progress bars
+
+uvicorn[standard] >=0.35.0 # For hosting server
+fastapi >= 0.116.1 # For REST communication 
+requests >= 2.32.5 # For REST communication
+typing_extensions>=4.8.0 # For typing_extensions.override in client GUI
+
+PyQt6 >= 6.9.1 # For GUI
+PySide6 >= 6.7.0
+depthai==2.30.0.0
+filterpy==1.4.5

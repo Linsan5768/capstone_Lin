@@ -1,0 +1,56 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+
+.DS_Store
+
+output.mp4
+
+# --- Project-specific ignores (YOLO/GUI project) ---
+
+# Virtual envs, caches, OS files
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/
+.idea/
+.ropeproject/
+
+# Datasets and generated experiment outputs
+# (Keep datasets and training runs out of Git; use DVC/LFS if needed)
+datasets/
+experiments/
+runs/
+
+# Model weights / artifacts (store locally or with Git LFS/Releases)
+weights/
+*.pt
+*.onnx
+*.engine
+*.trt
+
+# Videos and large media
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.gif
+
+# Logs and exports
+logs/
+*.log
+*.csv
+*.jsonl
+export/
+
+# Build/temporary
+build/
+!dist/
+*.egg-info/.DS_Store
+venv/
