@@ -2,7 +2,7 @@
 
 0. Assume that you have clone the git. Otherwise
 ```
-git clone https://github.sydney.edu.au/rpat3513/SOFT3888_TU12_01_P13.git
+git clone https://github.com/Linsan5768/capstone_Lin.git
 ```
 1.	Git pull from the main remote branch to your local main branch
 ```
@@ -24,6 +24,6 @@ git commit -m <meaningful-commit-message>
 ```
 git push -u origin <your-feature-branch-name>
 ```
-5. You should be able to see your changes on GitHub with your branch that you just created. After discuss with the team, you can merge your branch to main.
+5. You should be able to see your changes on GitHub with your branch that you just created. After review, you can merge your branch to main.
 
-For any issues or improvements, please contact the development team.
+For any issues or improvements, please contact [Linsan5768](https://github.com/Linsan5768).

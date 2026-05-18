@@ -1,5 +1,5 @@
 <!-- Top links (short & useful) -->
-[![Wiki](https://img.shields.io/badge/Wiki-Read-blue?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.sydney.edu.au/rpat3513/SOFT3888_TU12_01_P13/wiki)
+[![Repository](https://img.shields.io/badge/GitHub-capstone__Lin-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Linsan5768/capstone_Lin)
 [![Slack](https://img.shields.io/badge/Slack-Join-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/soft3888tu1201-hq/shared_invite/zt-3cd7sgooz-4~RGJi5zs3ciInUQuRkbEQ)
 [![Test Guide](https://img.shields.io/badge/Test%20Guide-Open-success?style=for-the-badge&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/13REj5iQ-Jfeg0Pcx3C6EWj9jE8QgDL8Iv6JpqjGidCI/edit?pli=1&tab=t.0)
 
@@ -26,6 +26,7 @@
       * [Problem 2: Not have appropiate access privileges](#problem-2-not-have-appropiate-access-privileges)
       * [Problem 3: Camera permission issues](#problem-3-camera-permission-issues)
    * [Project Structure](#project-structure)
+   * [Contributors](#contributors)
    * [License & Ownership](#license--ownership)
 <!--te-->
 
@@ -183,9 +184,10 @@ chmod +x (paste the path by pressing “cmd + v”)
 
 ## Project Structure
 ```bash
-SOFT3888_TU12_01_P13/
+capstone_Lin/
 │
 ├── README.md
+├── CONTRIBUTORS.md
 ├── CONTRIBUTING.md
 ├── requirements.txt
 ├── makefile
@@ -239,7 +241,11 @@ SOFT3888_TU12_01_P13/
 │   └── output.mp4         # GUI expects videos/output.mp4 (create if needed)
 ```
 
+## Contributors
+
+- [Linsan5768](https://github.com/Linsan5768)
+
 ## License & Ownership
 
-© 2025 The University of Sydney. Developed by Team P13 (SOFT3888) for SOLES (School of Life and Environmental Sciences).
-Private / internal use only. Redistribution or publication requires prior written approval of the University Supervisor.
+© 2025 [Linsan5768](https://github.com/Linsan5768). Capstone project (SOFT3888) for SOLES (School of Life and Environmental Sciences).
+Private / internal use only. Redistribution or publication requires prior written approval.
